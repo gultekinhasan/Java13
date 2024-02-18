@@ -1,0 +1,6 @@
+Birinci satır
+Ikinci satır
+Merhaba java
+Exception handling
+123
+345
